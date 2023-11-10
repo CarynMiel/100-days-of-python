@@ -2,12 +2,12 @@
 
 Date: 11/10/2023
 
-## Project
+## Project Band Name
 
-Creating a Band name generator using name of 
+Creating a Band name generator using name of
 the city the user grew up in and the name of their pet
 
-## Concepts: 
+## Concepts:
 
     string concatination
     inputs from the user
