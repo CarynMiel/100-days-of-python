@@ -1,5 +1,6 @@
 '''
-Day 2/100 Tip Calculator
+Day 002/100 
+Tip Calculator
 '''
 
 print("Welcome to the tip calculator!")
