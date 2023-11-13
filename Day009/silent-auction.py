@@ -2,8 +2,7 @@ import os
 clear = lambda: os.system('clear')
 
 from art import logo
-print(logo)
-
+print(str(logo))
 
 print("Welcome to the secret auction program.")
 auction = {}
@@ -27,5 +26,3 @@ for key in auction:
         max_bid = auction[key]
 
 print(f"The winner is {max_bidder} with a bid of ${max_bid}.")
-    
-    
