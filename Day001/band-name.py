@@ -1,7 +1,5 @@
-'''
-Day 001/100 
-Band Name Generator
-'''
+# Day 001/100 
+# Band Name Generator
 
 print("Welcome to the Band Name Generaotr.")
 city = input("What's the name of the city you grew up in?\n")

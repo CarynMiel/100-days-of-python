@@ -1,7 +1,5 @@
-'''
-Day 002/100 
-Tip Calculator
-'''
+# Day 002/100 
+# Tip Calculator
 
 print("Welcome to the tip calculator!")
 bill = float(input("What was the total bill?: $"))

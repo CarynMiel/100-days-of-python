@@ -1,7 +1,5 @@
-'''
-Day 004/100
-Rock Paper Scissors
-'''
+# Day 004/100
+# Rock Paper Scissors
 
 print(''' What do you choose?
 0 Rock

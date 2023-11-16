@@ -1,7 +1,5 @@
-'''
-Day 006/100
-Simple Maze Solver
-'''
+# Day 006/100
+# Simple Maze Solver
 
 import random
 options = [True, False]

@@ -1,7 +1,6 @@
-'''
-Day 009/100
-Silent Auction
-'''
+# Day 009/100
+# Silent Auction
+
 
 import os
 clear = lambda: os.system('clear')

@@ -1,7 +1,6 @@
-'''
-Day 007 100
-Hangman
-'''
+# Day 007 100
+# Hangman
+
 import random
 from words import word_list
 from art import logo

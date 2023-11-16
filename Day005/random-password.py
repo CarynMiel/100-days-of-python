@@ -1,7 +1,5 @@
-'''
-Day 005/100
-Random Password Generator
-'''
+# Day 005/100
+# Random Password Generator
 
 import random
 
