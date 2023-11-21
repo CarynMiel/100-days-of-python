@@ -20,14 +20,14 @@ def play():
     pscore = player[0] + player[1]
     
     computer = [cards[random.randrange(0, len(cards))], cards[random.randrange(0, len(cards))]]
-    cscore = score[0] + score[1]
+    cscore = computer[0] + computer[1]
     
     print(f"Your cards are: [{player[0]}, {player[1]}]\nYour score is: {pscore}")
     print(f"The computer's first card was: {computer[0]}\n")
     
     play = input("Hit (get another card) or stand (keep current cards)?: ")[0].lower()
     
-    while play != "h" or play != "s":
+    while play != "h" and play != "s":
         play = input("That is not an option. HIT or STAND")
         
     if play == "s":
